@@ -1,5 +1,7 @@
 # INF554 data challenge
 
+Visit: https://josselinsomervilleroberts.github.io/ to find a description of the project.
+
 This folder contains the 2 notebooks we used to make submission to the **INF554 Kaggle Competition**.
 
 ## Requirements
